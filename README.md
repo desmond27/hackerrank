@@ -1,4 +1,0 @@
-hackerrank
-==========
-
-My hackerrank code
