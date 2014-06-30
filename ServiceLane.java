@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class ServiceLane {
 	public static int maxVeh(int[] lanes, int ent, int ext){
 		int max=3;
 		for(int i = ent; i <= ext; i++){
