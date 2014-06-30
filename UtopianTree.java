@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class UtopianTree {
 	public static void main(String[] args){
 		int T;
 		Scanner s = new Scanner(System.in);
