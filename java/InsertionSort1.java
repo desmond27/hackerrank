@@ -1,6 +1,6 @@
 /* Head ends here */
 import java.util.*;
-public class Solution {
+public class InsertionSort1 {
        
           static void insertionSort(int[] ar) {
            int currInt = ar[ar.length - 1];
