@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 
-public class Solution {
+public class GameOfThrones1 {
 	public static void main(String[] args) {
         Scanner myScan = new Scanner(System.in);
         String inputString = myScan.nextLine();
