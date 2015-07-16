@@ -19,19 +19,19 @@ Constraints
 
 Sample Input
 
-6
-aaabbb
-ab
-abc
-mnop
-xyyx
-xaxbbbxx
+    6
+    aaabbb
+    ab
+    abc
+    mnop
+    xyyx
+    xaxbbbxx
 
 Sample Output
 
-3
-1
--1
-2
-0
-1
+    3
+    1
+    -1
+    2
+    0
+    1
